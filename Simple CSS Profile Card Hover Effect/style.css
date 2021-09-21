@@ -63,7 +63,7 @@ body {
   justify-content: center;
   align-items:flex-end;
   padding-bottom:30px;
-  transform: translateX(100%);
+  transform: translateY(100%);
   transition: 0.5s;
 }
 .container .cards .content .details  {
@@ -73,7 +73,7 @@ body {
   text-align: center;
 }
 .container .cards:hover .content {
-  transform: translateX(0%);
+  transform: translateY(0%);
 }
 .container .cards .content .details h2 {
    color:#fff;
