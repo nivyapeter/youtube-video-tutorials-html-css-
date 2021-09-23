@@ -1,4 +1,5 @@
 # youtube-video-tutorials-html-css
 ## html css
- - simple profile card hover effect by using html and css
+ - html and css excercise from youtube(online tutorial) and 
+   tutorialrepublic document
  
